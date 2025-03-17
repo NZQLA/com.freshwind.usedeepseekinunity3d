@@ -19,5 +19,12 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:NZQLA/UseDeepSeekInUnity3d.git"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Sample Scene",
+      "description": "A sample scene to demonstrate the usage.",
+      "path": "Samples~/Scenes/UseDeepSeek.unity"
+    }
+  ]
 }
