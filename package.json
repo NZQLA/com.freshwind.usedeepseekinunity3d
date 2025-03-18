@@ -1,6 +1,6 @@
 {
   "name": "com.freshwind.usedeepseekinunity3d",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Use DeepSeek In Unity3d",
   "description": "Chat with deepseek in unity.",
   "unity": "2020.3",
@@ -26,6 +26,11 @@
       "displayName": "Sample Scene",
       "description": "A sample scene to demonstrate the usage.",
       "path": "Samples~/Scenes"
+    },
+    {
+      "displayName": "fonts",
+      "description": "some tmp fonts used in the sample scene.",
+      "path": "Samples~/Fonts"
     }
   ]
 }
