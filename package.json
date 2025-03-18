@@ -4,6 +4,7 @@
   "displayName": "Use DeepSeek In Unity3d",
   "description": "Chat with deepseek in unity.",
   "unity": "2020.3",
+  "documentationUrl": "https://github.com/NZQLA/com.freshwind.usedeepseekinunity3d/blob/main/Readme.md",
   "dependencies": {
     "com.unity.textmeshpro": "3.0.9"
   },
