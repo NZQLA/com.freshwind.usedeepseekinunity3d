@@ -1,6 +1,4 @@
 using System;
-using System.Security.Cryptography;
-using BaseToolsForUnity;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
