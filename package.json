@@ -1,6 +1,6 @@
 {
   "name": "com.freshwind.usedeepseekinunity3d",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "displayName": "Use DeepSeek In Unity3d",
   "description": "Chat with deepseek in unity.",
   "unity": "2020.3",

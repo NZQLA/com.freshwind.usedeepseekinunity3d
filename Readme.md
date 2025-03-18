@@ -71,6 +71,8 @@ On the project run, int the `DeepSeekDialogueManager.Start()` will get it auto.
 I used the [aliyun](https://bailian.console.aliyun.com/?spm=a2c4g.11186623.0.0.13c7657bRaapwv#/model-market/detail/deepseek-r1) deepseek api, so the url and model name in the panel is for aliyun.
 If you use other api, you can set the apiurl and model name in the panel.
 
+### 3. Set the TMP Font Settings
+![TMP Font Settings](SetTMPFontSettings.png)]]
 
 ## Request with stream
 ![Request Deep Seek By Stream](RequestDeepSeekByStream.gif)
